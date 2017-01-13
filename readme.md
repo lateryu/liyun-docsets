@@ -7,6 +7,6 @@ ECMAScript
 
 Node
 -
-[全局变量](./Web/Node/node-globalval.md)
+[全局变量](./Web/Node/Node-Globalval.md)
 
-[Buffer数据](./Web/Node/node-buffer.md)
+[Buffer数据](./Web/Node/Node-Buffer.md)
