@@ -13,4 +13,4 @@ ECMAScript
 
 Node
 -
-[全局变量](Web/Node/Node-Globalval)
+[全局变量](Web/Node/node-globalval)
